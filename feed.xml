@@ -1,0 +1,198 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>/</id>
+  <title>S.A. de filosofía</title>
+  <subtitle>Cuaderno de bitácora de la elaboración de la S.A. de filosofía hecho por alumnos del IES La Madraza.</subtitle>
+  <updated>2024-01-29T21:00:00+01:00</updated>
+  <author>
+    <name>Grupo 5</name>
+    <uri>/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="es-ES"
+    href="/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
+  <rights> © 2024 Grupo 5 </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Clases del 23 al 26 de enero.</title>
+    <link href="/posts/26-de-enero/" rel="alternate" type="text/html" title="Clases del 23 al 26 de enero." />
+    <published>2024-01-26T00:00:00+01:00</published>
+  
+    <updated>2024-01-26T00:00:00+01:00</updated>
+  
+    <id>/posts/26-de-enero/</id>
+    <content src="/posts/26-de-enero/" />
+    <author>
+      <name>Grupo 5</name>
+    </author>
+
+  
+    
+    <category term="Diario" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      En estas clases no hicimos ningún avance relevante, publicamos el blog y terminamos de buscar información y consolidar conocimientos. A pesar de ello, nos hemos encontrado con el muro que supone la relación de la racionalidad de Descartes con la inteligencia artificial.
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Clase del 19 de enero.</title>
+    <link href="/posts/19-de-enero/" rel="alternate" type="text/html" title="Clase del 19 de enero." />
+    <published>2024-01-19T00:00:00+01:00</published>
+  
+    <updated>2024-01-19T00:00:00+01:00</updated>
+  
+    <id>/posts/19-de-enero/</id>
+    <content src="/posts/19-de-enero/" />
+    <author>
+      <name>Grupo 5</name>
+    </author>
+
+  
+    
+    <category term="Diario" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Como ya lo teníamos todo muy bien pensado, durante este día y el resto nos dedicamos a la búsqueda y selección de información para poner en el trabajo. No podíamos avanzar más debido a nuestra falta de conocimiento sobre Descartes para poder extraer conclusiones de cómo relacionar específicamente el modelo de aprendizaje elegido con la racionalidad de Descartes.
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Clase del 18 de enero.</title>
+    <link href="/posts/18-de-enero/" rel="alternate" type="text/html" title="Clase del 18 de enero." />
+    <published>2024-01-18T00:00:00+01:00</published>
+  
+    <updated>2024-01-18T00:00:00+01:00</updated>
+  
+    <id>/posts/18-de-enero/</id>
+    <content src="/posts/18-de-enero/" />
+    <author>
+      <name>Grupo 5</name>
+    </author>
+
+  
+    
+    <category term="Diario" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      En nuestras casas avanzamos un poco el Blog, nuestro día se basó en comentar un poco nuestras ideas y ponernos al día sobre la información que cada uno recopiló, lo que avanzamos en el Blog y las ideas que teníamos para perfeccionarlo. Entre la información obtenida, destaca la siguiente:
+
+  El método de la inteligencia artificial en el que se le da recompensas en función de su comportamiento an...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Clase del 16 de enero.</title>
+    <link href="/posts/16-de-enero/" rel="alternate" type="text/html" title="Clase del 16 de enero." />
+    <published>2024-01-16T00:00:00+01:00</published>
+  
+    <updated>2024-01-16T00:00:00+01:00</updated>
+  
+    <id>/posts/16-de-enero/</id>
+    <content src="/posts/16-de-enero/" />
+    <author>
+      <name>Grupo 5</name>
+    </author>
+
+  
+    
+    <category term="Diario" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      En este día se nos ocurrió crear un Blog para el trabajo, y decidimos pensar que es lo que pondríamos en el blog y cómo organizarlo. Barajamos varias opciones disponibles sobre cómo hacer un Blog, y al ser dos de los integrantes de nuestro grupo alumnos de ciencias tecnológicas, decidimos que sería de una forma más compleja pero más personalizada, desarrollándolo.
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Clase del 12 de enero.</title>
+    <link href="/posts/12-de-enero/" rel="alternate" type="text/html" title="Clase del 12 de enero." />
+    <published>2024-01-12T00:00:00+01:00</published>
+  
+    <updated>2024-01-12T00:00:00+01:00</updated>
+  
+    <id>/posts/12-de-enero/</id>
+    <content src="/posts/12-de-enero/" />
+    <author>
+      <name>Grupo 5</name>
+    </author>
+
+  
+    
+    <category term="Diario" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      En este día ya teníamos decidido que en nuestra opinión el modelo de aprendizaje de la IA que se podría relacionar más con la filosofía de Descartes: El Aprendizaje por refuerzo. Así que decidimos investigar sobre cómo relacionarlo y una vez más le preguntamos a la IA su relación con la filosofía de Descartes, aunque no nos fue de ayuda. Pues todavía no está lo suficientemente desarrollada como...
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
